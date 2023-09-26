@@ -1,0 +1,4 @@
+﻿  Porter_AdvAlg_Final.cpp
+C:\Users\lukeg\source\repos\Porter_AdvAlg_Final\ProjectLibrary.h(12,2): warning C4091: 'static ': ignored on left of 'ProjectLibrary' when no variable is declared
+C:\Users\lukeg\source\repos\Porter_AdvAlg_Final\Porter_AdvAlg_Final.cpp(221,13): warning C4018: '<=': signed/unsigned mismatch
+  Porter_AdvAlg_Final.vcxproj -> C:\Users\lukeg\source\repos\Porter_AdvAlg_Final\Debug\Porter_AdvAlg_Final.exe

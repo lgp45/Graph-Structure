@@ -1,0 +1,2 @@
+C:\Users\lukeg\source\repos\Porter_AdvAlg_Final\Debug\Porter_AdvAlg_Final.exe
+C:\Users\lukeg\source\repos\Porter_AdvAlg_Final\Debug\Porter_AdvAlg_Final.pdb
